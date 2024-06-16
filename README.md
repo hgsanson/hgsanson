@@ -3,8 +3,8 @@
 [![](https://github-readme-activity-graph.vercel.app/graph?username=holices&bg_color=0d1117&color=DCDCDC&line=1f1e1e&point=16fd00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=holices&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=16fd00&text_color=eeeeee&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holices&layout=compact&hide_border=true&title_color=ffffff&text_color=eeeeee&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=holices&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=16fd00&text_color=cfbcbc&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holices&layout=compact&hide_border=true&title_color=ffffff&text_color=cfbcbc&bg_color=0d1117" />
 </div>
 
 <div align="center"><br>
