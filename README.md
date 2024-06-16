@@ -1,6 +1,6 @@
-[![](https://readme-typing-svg.herokuapp.com/?color=16fd00&size=35&center=true&vCenter=true&width=1000&lines=HELLO!,+My+name+is+Holices+Sanson;I'm+a+front-end+developer;Welcome!+:%29)](https://git.io/typing-svg)
+[![](https://readme-typing-svg.herokuapp.com/?color=16fd00&size=35&center=true&vCenter=true&width=1000&lines=Hello!,+My+name+is+Holices+Sanson;I'm+a+front-end+developer;Welcome!+:%29)](https://git.io/typing-svg)
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=holices&bg_color=0d1117&color=DCDCDC&line=1f1e1e&point=16fd00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=holices&bg_color=0d1117&color=DCDCDC&line=1f1e1e&point=16fd00&area=true&hide_border=true)](github-readme-activity-graph)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=holices&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=16fd00&text_color=cfbcbc&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
